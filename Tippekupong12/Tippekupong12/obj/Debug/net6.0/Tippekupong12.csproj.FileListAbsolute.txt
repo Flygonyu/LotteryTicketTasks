@@ -1,0 +1,15 @@
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.csproj.AssemblyReference.cache
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.AssemblyInfoInputs.cache
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.AssemblyInfo.cs
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.csproj.CoreCompileInputs.cache
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\bin\Debug\net6.0\Tippekupong12.exe
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\bin\Debug\net6.0\Tippekupong12.deps.json
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\bin\Debug\net6.0\Tippekupong12.runtimeconfig.json
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\bin\Debug\net6.0\Tippekupong12.dll
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\bin\Debug\net6.0\Tippekupong12.pdb
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.dll
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\refint\Tippekupong12.dll
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.pdb
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\Tippekupong12.genruntimeconfig.cache
+C:\Users\Mayuko\source\repos\Tippekupong12\Tippekupong12\obj\Debug\net6.0\ref\Tippekupong12.dll
